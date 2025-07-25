@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "motionpath"
+version = "1.0.0"
+name = "Time Range and notes"
+tagline = "Tool to revert render range"
+maintainer = "Blender Bob"
+type = "add-on"
+website = "https://github.com/riouxr/Render-Range"
+tags = ["Animation"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2025 Robert Rioux"]
